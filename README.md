@@ -41,8 +41,8 @@
 ## ⚙️ Stats for nerds
 <p align="center">
   <a href="https://github.com/Xelodico">
-    <img height="160em" src="https://github-readme-stats-topaz-nine.vercel.app/api?username=Xelodico&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=00000000"/>
-    <img height="160em" src="https://github-readme-stats-topaz-nine.vercel.app/api/top-langs/?username=Xelodico&layout=compact&langs_count=8&theme=synthwave&bg_color=00000000"/>
+    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api?username=Xelodico&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=00000000"/>
+    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api/top-langs/?username=Xelodico&layout=compact&langs_count=8&theme=synthwave&bg_color=00000000"/>
   </a>
 </p>
 
@@ -51,6 +51,6 @@
 <p align="center">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-xelodico-%235865F2?style=plastic&logo=discord&logoColor=white&logoSize=auto">
 <a href="https://www.linkedin.com/in/peter-robinson-14829b2b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Peter%20Robinson-%230A66C2?style=plastic&link=www.linkedin.com%2Fin%2Fpeter-robinson-14829b2b3"></a>
-<a href="https://steamcommunity.com/profiles/76561198123171286/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Xelodico-000000?style=plastic&logo=steam&logoColor=white&logoSize=auto">
-<a href="https://open.spotify.com/user/ondatram?si=312505591a0c46bf"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-ondatram-%231DB954?style=plastic&logo=spotify&logoColor=white&logoSize=auto">
+<a href="https://steamcommunity.com/profiles/76561198123171286/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Xelodico-000000?style=plastic&logo=steam&logoColor=white&logoSize=auto"></a>
+<a href="https://open.spotify.com/user/ondatram?si=312505591a0c46bf"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-ondatram-%231DB954?style=plastic&logo=spotify&logoColor=white&logoSize=auto"></a>
 </p>

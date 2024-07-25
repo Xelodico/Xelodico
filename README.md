@@ -41,8 +41,7 @@
 ## ⚙️ Stats for nerds
 <p align="center">
   <a href="https://github.com/Xelodico">
-    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api?username=Xelodico&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=00000000"/>
-    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api/top-langs/?username=Xelodico&layout=compact&langs_count=8&theme=synthwave&bg_color=00000000"/>
+    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api?username=Xelodico&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=00000000"/><img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api/top-langs/?username=Xelodico&layout=compact&langs_count=8&theme=synthwave&bg_color=00000000"/>
   </a>
 </p>
 

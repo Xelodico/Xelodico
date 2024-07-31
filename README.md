@@ -10,7 +10,7 @@
 - 🎓 &nbsp;Undergraduate student pursuing a Master of Engineering in Computer Science.
 - 💡 &nbsp;I enjoy writing code, solving problems and building software.
 - 🎮 &nbsp;Passionate gamer (although I'm not into eSports).
-- 🌱 &nbsp;Currently learning the ropes of GitHub. I plan to start a course in [web programming](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) soon!
+- 🌱 &nbsp;Currently learning the ropes of GitHub and [web programming](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)!
 - 🔍 &nbsp;Seeking a software development internship for my placement year.
 - 📜 &nbsp;20th century history nerd.
 - 🤙 &nbsp;Feel free to reach out; I'm always looking for new friends.

@@ -1,5 +1,7 @@
+<!-- Primary color (#): e5289e -->
+
 <p align="center">
-<img alt="Banner" style="align: center;" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0000F8&text=Hello!&section=header&reversal=false&animation=blink&fontColor=FFFF00&fontSize=80">
+<img alt="Banner" style="align: center;" src="https://capsule-render.vercel.app/api?type=venom&height=170&color=e5289e&text=Hello!&section=header&reversal=false&animation=twinkling&fontColor=ffff&fontSize=80&&stroke=000&strokeWidth=0.5">
 </p>
 
 ## 🤓 About myself

@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Banner" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0000F8&text=Hello!&section=header&reversal=false&animation=blink&fontColor=FFFF00&fontSize=80">
+<img alt="Banner" style="align: center;" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0000F8&text=Hello!&section=header&reversal=false&animation=blink&fontColor=FFFF00&fontSize=80">
 </p>
 
 ## 🤓 About myself
@@ -34,12 +34,6 @@
 
 ---
 
-## 🎧 What I'm listening to
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ondatram&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e5289e&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ondatram&redirect=true)
-
----
-
 ## ⚙️ Stats for nerds
 
 <p align="center">
@@ -49,11 +43,15 @@
 
 ---
 
+## 🎧 What I'm listening to
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ondatram&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e5289e&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ondatram&redirect=true)
+
+---
+
 ## 💬 "Well, talk." - Agent 47
 
-<p align="center">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-xelodico-%235865F2?style=plastic&logo=discord&logoColor=white&logoSize=auto">
-<a href="https://www.linkedin.com/in/peter-robinson-14829b2b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Peter%20Robinson-%230A66C2?style=plastic&link=www.linkedin.com%2Fin%2Fpeter-robinson-14829b2b3"></a>
-<a href="https://steamcommunity.com/profiles/76561198123171286/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Xelodico-000000?style=plastic&logo=steam&logoColor=white&logoSize=auto"></a>
-<a href="https://open.spotify.com/user/ondatram?si=312505591a0c46bf"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-ondatram-%231DB954?style=plastic&logo=spotify&logoColor=white&logoSize=auto"></a>
-</p>
+![Discord](https://img.shields.io/badge/Discord-xelodico-%235865F2?style=plastic&logo=discord&logoColor=white&logoSize=auto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Robinson-%230A66C2?style=plastic&link=www.linkedin.com%2Fin%2Fpeter-robinson-14829b2b3)](https://www.linkedin.com/in/peter-robinson-14829b2b3)
+[![Steam](https://img.shields.io/badge/Steam-Xelodico-000000?style=plastic&logo=steam&logoColor=white&logoSize=auto)](https://steamcommunity.com/profiles/76561198123171286/)
+[![Spotify](https://img.shields.io/badge/Spotify-ondatram-%231DB954?style=plastic&logo=spotify&logoColor=white&logoSize=auto)](https://open.spotify.com/user/ondatram?si=312505591a0c46bf)

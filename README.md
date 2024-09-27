@@ -11,7 +11,7 @@
 - 🎓 &nbsp;Undergraduate student pursuing a Master of Engineering in Computer Science.
 - 💡 &nbsp;I enjoy writing code, solving problems and building software.
 - 🎮 &nbsp;Passionate gamer (although I'm not into eSports).
-- 🌱 &nbsp;Currently learning the ropes of GitHub and JavaScript!
+- 🌱 &nbsp;Currently learning JavaScript and C++!
 - 🔍 &nbsp;Seeking a software development internship for my placement year.
 - 📜 &nbsp;20th century history nerd.
 - 🤙 &nbsp;Feel free to reach out; I'm always looking for new friends.

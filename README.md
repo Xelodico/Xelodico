@@ -2,6 +2,7 @@
 <!-- For badges, visit these websites below:
 https://shields.io/badges/static-badge
 https://simpleicons.org/
+https://shieldcn.dev/
  -->
 
 <p align="center">
@@ -12,33 +13,32 @@ https://simpleicons.org/
 
 <img alt="Me as a Mii" src="https://github.com/Xelodico/random-resources/blob/main/images/GitHub%20profile%20README/mii.png?raw=true" height=188.9em align="right"/>
 
-- 🎓 &nbsp;Undergraduate student pursuing a Master of Engineering in Computer Science.
+- 🎓 &nbsp;Undergraduate student pursuing a BSc in Computer Science.
+- 🖥️ &nbsp;Low-code developer using the Microsoft Power Platform.
 - 💡 &nbsp;I enjoy writing code, solving problems and building software.
-- 🎮 &nbsp;Passionate gamer (although I'm not into eSports).
-- 🌱 &nbsp;Recently built my first PC!
-- 🖥️ &nbsp;Starting a developer internship for my placement year.
+- 🎮 &nbsp;Passionate gamer (Mass Effect my beloved).
+- 🌱 &nbsp;I built a PC, that's pretty cool!
 - 📜 &nbsp;20th century history nerd.
-- 🤙 &nbsp;Feel free to reach out; I'm always looking for new friends.
 - 🌟 &nbsp;Fun fact: Was once leader of the [DUP](https://en.wikipedia.org/wiki/Democratic_Unionist_Party).
 
 ---
 
 ## 🧠 What I've learnt
 
-![Access](https://img.shields.io/badge/Access-AF2131?style=flat)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white&logoSize=auto)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-%232C2255?style=flat&logo=eclipseide&logoColor=F79725&logoSize=auto)&nbsp;
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat&logo=gitlab&logoColor=white&logoSize=auto)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoSize=auto)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=F8981D&logoSize=auto)&nbsp;
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat&logo=phpmyadmin&logoColor=F89D06&logoSize=auto)&nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54&logoSize=auto)&nbsp;
-![Static Badge](https://img.shields.io/badge/VirtualBox-%232F61B4?style=flat&logo=virtualbox&logoSize=auto)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0065A9?style=flat)&nbsp;
+![Access](https://shieldcn.dev/badge/Microsoft%20Access-AF2131.svg)<!-- #AF2131 -->
+![CSS](https://shieldcn.dev/badge/CSS-663399.svg?&logo=ri%3ABsCss)<!-- #663399 -->
+![Eclipse IDE](https://shieldcn.dev/badge/Eclipse-2C2252.svg?logo=eclipseide)<!-- #2C2252 -->
+![Git](https://shieldcn.dev/badge/Git-F05032.svg?logo=git) <!-- #F05032 -->
+![GitHub](https://shieldcn.dev/badge/GitHub-181717.svg?logo=ri%3AFaGithub) <!-- #181717 -->
+![GitLab](https://shieldcn.dev/badge/GitLab-FC6D26.svg?logo=ri%3ABsGitlab) <!-- #FC6D26 -->
+![HTML](https://shieldcn.dev/badge/HTML-E34F26.svg?logo=html5)<!-- #E34F26 -->
+![Java](https://shieldcn.dev/badge/Java-ED8B00.svg?logo=ri%3AFaJava)<!-- #ED8B00 -->
+![JavaScript](https://shieldcn.dev/badge/JavaScript-f7df1e.svg?logo=javascript)<!-- #f7df1e -->
+![MySQL](https://shieldcn.dev/badge/MySQL-4479A1.svg?logo=ri%3ATbBrandMysql)<!-- #4479A1 -->
+![phpMyAdmin](https://shieldcn.dev/badge/phpMyAdmin-6C78AF.svg?logo=phpmyadmin)<!-- #6C78AF -->
+![Python](https://shieldcn.dev/badge/Python-3670A0.svg?logo=python)<!-- #3670A0 -->
+![VirtualBox](https://shieldcn.dev/badge/VirtualBox-2F61B4.svg?logo=virtualbox) <!-- #2F61B4 -->
+![VSCode](https://shieldcn.dev/badge/Visual%20Studio%20Code-0065A9.svg?logo=ri%3ATbBrandVscode)<!-- #0065A9-->
 
 ---
 
@@ -59,7 +59,7 @@ https://simpleicons.org/
 
 ## 💬 "Well, talk." - Agent 47
 
-![Discord](https://img.shields.io/badge/Discord-xelodico-%235865F2?style=flat&logo=discord&logoColor=white&logoSize=auto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Robinson-%230A66C2?style=flat&link=www.linkedin.com%2Fin%2Fpeter-robinson-14829b2b3)](https://www.linkedin.com/in/peter-robinson-14829b2b3)
-[![Steam](https://img.shields.io/badge/Steam-Xelodico-000000?style=flat&logo=steam&logoColor=white&logoSize=auto)](https://steamcommunity.com/profiles/76561198123171286/)
-[![Spotify](https://img.shields.io/badge/Spotify-ondatram-%231DB954?style=flat&logo=spotify&logoColor=white&logoSize=auto)](https://open.spotify.com/user/ondatram?si=312505591a0c46bf)
+![Discord](https://shieldcn.dev/badge/Discord-xelodico.svg?brand=discord)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-Peter%20R.-0A66C2.svg?logo=ri%3AFaLinkedinIn)](https://www.linkedin.com/in/peter-r-works/) <!-- #0A66C2 -->
+[![Steam](https://shieldcn.dev/badge/Steam-Xelo-1e2f3f.svg?logo=steam)](https://steamcommunity.com/profiles/76561198123171286/)<!-- #1e2f3f -->
+[![Spotify](https://shieldcn.dev/badge/Spotify-Ondatram-1DB954.svg?variant=outline&logo=spotify)](https://open.spotify.com/user/ondatram)<!-- #1DB954 -->

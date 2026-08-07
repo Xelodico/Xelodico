@@ -44,9 +44,9 @@ https://shieldcn.dev/
 
 ## ⚙️ Stats for nerds
 
-<p align="center">
-    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api?username=Xelodico&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=00000000"/>
-    <img height="160em"src="https://github-readme-stats-topaz-nine.vercel.app/api/top-langs/?username=Xelodico&layout=compact&langs_count=8&theme=synthwave&bg_color=00000000"/>
+<p align="left">
+    <img height="160em"src="https://github-stats-extended.vercel.app/api?username=Xelodico&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=00000000"/>
+    <img height="160em"src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xelodico&layout=compact&langs_count=8&theme=synthwave&bg_color=00000000"/>
 </p>
 
 ---
@@ -63,3 +63,12 @@ https://shieldcn.dev/
 [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-Peter%20R.-0A66C2.svg?logo=ri%3AFaLinkedinIn)](https://www.linkedin.com/in/peter-r-works/) <!-- #0A66C2 -->
 [![Steam](https://shieldcn.dev/badge/Steam-Xelo-1e2f3f.svg?logo=steam)](https://steamcommunity.com/profiles/76561198123171286/)<!-- #1e2f3f -->
 [![Spotify](https://shieldcn.dev/badge/Spotify-Ondatram-1DB954.svg?variant=outline&logo=spotify)](https://open.spotify.com/user/ondatram)<!-- #1DB954 -->
+
+---
+
+## 🫶 Credits
+
+- [Capsule Render](https://github.com/kyechan99/capsule-render) by *Ye-Chan Kang* - Banner
+- [shieldcn](https://github.com/jal-co/shieldcn) by *Justin Levine* - Badges
+- [github-stats=extended](https://github.com/stats-organization/github-stats-extended) by *stats-organisation* - Stats for nerds
+- [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) by *kittinan* - What I'm listening to

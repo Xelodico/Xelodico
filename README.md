@@ -25,20 +25,29 @@ https://shieldcn.dev/
 
 ## 🧠 What I've learnt
 
-![Access](https://shieldcn.dev/badge/Microsoft%20Access-AF2131.svg)<!-- #AF2131 -->
+![Access](https://shieldcn.dev/badge/Microsoft%20Access-AF2131.svg?logo=ri%3AFaDatabase)<!-- #AF2131 -->
+![Copilot Studio](https://shieldcn.dev/badge/Copilot%20Studio-0a556a.svg?logo=lu%3ABot) <!-- #0a556a -->
 ![CSS](https://shieldcn.dev/badge/CSS-663399.svg?&logo=ri%3ABsCss)<!-- #663399 -->
+![Dataverse](https://shieldcn.dev/badge/Dataverse-6ce773.svg?logo=ri%3AFaDatabase) <!-- #6ce773 -->
 ![Eclipse IDE](https://shieldcn.dev/badge/Eclipse-2C2252.svg?logo=eclipseide)<!-- #2C2252 -->
 ![Git](https://shieldcn.dev/badge/Git-F05032.svg?logo=git) <!-- #F05032 -->
-![GitHub](https://shieldcn.dev/badge/GitHub-181717.svg?logo=ri%3AFaGithub) <!-- #181717 -->
-![GitLab](https://shieldcn.dev/badge/GitLab-FC6D26.svg?logo=ri%3ABsGitlab) <!-- #FC6D26 -->
+![GitHub](https://shieldcn.dev/badge/GitHub.svg?logo=ri%3AFaGithub&brand=github) <!-- #181717 -->
+![GitLab](https://shieldcn.dev/badge/GitLab.svg?brand=gitlab) <!-- #FC6D26 -->
 ![HTML](https://shieldcn.dev/badge/HTML-E34F26.svg?logo=html5)<!-- #E34F26 -->
 ![Java](https://shieldcn.dev/badge/Java-ED8B00.svg?logo=ri%3AFaJava)<!-- #ED8B00 -->
 ![JavaScript](https://shieldcn.dev/badge/JavaScript-f7df1e.svg?logo=javascript)<!-- #f7df1e -->
 ![MySQL](https://shieldcn.dev/badge/MySQL-4479A1.svg?logo=ri%3ATbBrandMysql)<!-- #4479A1 -->
 ![phpMyAdmin](https://shieldcn.dev/badge/phpMyAdmin-6C78AF.svg?logo=phpmyadmin)<!-- #6C78AF -->
-![Python](https://shieldcn.dev/badge/Python-3670A0.svg?logo=python)<!-- #3670A0 -->
+![Power Apps](https://shieldcn.dev/badge/Power%20Apps-742775.svg?logo=ri%3ABsMicrosoft) <!-- #742775 -->
+![Power Automate](https://shieldcn.dev/badge/Power%20Automate-2a64f6.svg?logo=ri%3ABsMicrosoft) <!-- #2a64f6 -->
+![Power BI](https://shieldcn.dev/badge/Power%20BI-f5ce0d.svg?logo=ri%3ABsFileBarGraphFill) <!-- #f5ce0d -->
+![PowerPoint](https://shieldcn.dev/badge/PowerPoint-f14522.svg?logo=ri%3APiMicrosoftPowerpointLogoBold) <!-- #f14522 -->
+![Python](https://shieldcn.dev/badge/Python.svg?brand=python)<!-- #3670A0 -->
+![SharePoint](https://shieldcn.dev/badge/SharePoint-008f93.svg?logo=ri%3ABsMicrosoft) <!-- #008f93 -->
+![SQL](https://shieldcn.dev/badge/SQL.svg?logo=ri%3AFaDatabase)
+![Teams](https://shieldcn.dev/badge/Teams-5458af.svg?logo=ri%3APiMicrosoftTeamsLogoBold) <!-- #5458af -->
 ![VirtualBox](https://shieldcn.dev/badge/VirtualBox-2F61B4.svg?logo=virtualbox) <!-- #2F61B4 -->
-![VSCode](https://shieldcn.dev/badge/Visual%20Studio%20Code-0065A9.svg?logo=ri%3ATbBrandVscode)<!-- #0065A9-->
+![VSCode](https://shieldcn.dev/badge/Visual%20Studio%20Code.svg?brand=vscode)
 
 ---
 

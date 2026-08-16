@@ -78,6 +78,7 @@ https://shieldcn.dev/
 ## 🫶 Credits
 
 - [Capsule Render](https://github.com/kyechan99/capsule-render) by *Ye-Chan Kang* - Banner
+- [Mii Creator](https://mii.nxw.pw/) by *Austin / kat21* - Mii render
 - [shieldcn](https://github.com/jal-co/shieldcn) by *Justin Levine* - Badges
 - [github-stats=extended](https://github.com/stats-organization/github-stats-extended) by *stats-organisation* - Stats for nerds
 - [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) by *kittinan* - What I'm listening to

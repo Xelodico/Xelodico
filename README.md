@@ -66,7 +66,7 @@ https://shieldcn.dev/
 
 ---
 
-## 💬 "Well, talk." - Agent 47
+## 💬 Socials
 
 ![Discord](https://shieldcn.dev/badge/Discord-xelodico.svg?brand=discord)
 [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-Peter%20R.-0A66C2.svg?logo=ri%3AFaLinkedinIn)](https://www.linkedin.com/in/peter-r-works/) <!-- #0A66C2 -->

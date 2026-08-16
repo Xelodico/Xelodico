@@ -17,7 +17,7 @@ https://shieldcn.dev/
 - 🖥️ &nbsp;Low-code developer using the Microsoft Power Platform.
 - 💡 &nbsp;I enjoy writing code, solving problems and building software.
 - 🎮 &nbsp;Passionate gamer (Mass Effect my beloved).
-- 🌱 &nbsp;I built a PC, that's pretty cool!
+- 🌱 &nbsp;[I built a PC, that's pretty cool!](https://uk.pcpartpicker.com/b/QCbKHx)
 - 📜 &nbsp;20th century history nerd.
 - 🌟 &nbsp;Fun fact: Was once leader of the [DUP](https://en.wikipedia.org/wiki/Democratic_Unionist_Party).
 
